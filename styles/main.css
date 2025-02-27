@@ -1,0 +1,40 @@
+*{
+    text-align: center;
+}
+
+html {
+    background-color: lightskyblue;
+    color: navy;
+    font-size: 200%;
+}
+
+header img{
+    margin-top: 2em;
+    width: 5%;
+}
+
+header h2 {
+    color: black;
+}
+
+#author {
+    font-style: italic;
+}
+
+#quotation {
+    font-size: 130%;
+}
+
+#generate {
+    background-color: gray;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    width: 170px;
+    height: 60px;
+    font-size: 70%;
+}
+
+footer {
+    justify-content: center;
+    padding: 2em 0;
+}
